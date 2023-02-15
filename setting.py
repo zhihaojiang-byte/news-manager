@@ -1,0 +1,3 @@
+ITEMS_PER_PAGE = 10
+
+MY_SQL_ENCRYPT_KEY = "password"
