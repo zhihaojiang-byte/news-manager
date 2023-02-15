@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a news management system. Each user is assigned as an editor or an administrator.
+This is a news management system runs in command prompt. Each user is assigned as an editor or an administrator.
 As an editor, he can publish and edit news through the system. On the other hand, as an administrator, 
 His job is to approve the news or delete the news. He can also manage the users. 
 For example, he can add users, modify users and delete users. This system is programmed in Python and 
